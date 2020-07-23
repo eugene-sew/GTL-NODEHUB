@@ -29,11 +29,16 @@ ul{
 }
 
 li{
-    padding-right:30px;
+    padding:10px;
     list-style-type: none;
 }
 
 a{
     text-decoration: none;
     font-size: 0.8em;
+}
+
+/* hover effect added */
+li:hover{
+    background-color: white;
 }
